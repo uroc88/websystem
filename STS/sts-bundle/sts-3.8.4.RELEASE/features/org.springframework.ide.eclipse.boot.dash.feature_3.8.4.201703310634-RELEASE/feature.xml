@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/*******************************************************************************
+ * Copyright (c) 2005, 2016 Spring IDE Developers
+ * All rights reserved. This program and the accompanying materials
+ * are made available under the terms of the Eclipse Public License v1.0
+ * which accompanies this distribution, and is available at
+ * http://www.eclipse.org/legal/epl-v10.html
+ * 
+ * Contributors:
+ *     Spring IDE Developers - initial API and implementation
+ *******************************************************************************/
+ -->
+<feature
+      id="org.springframework.ide.eclipse.boot.dash.feature"
+      label="%featureName"
+      version="3.8.4.201703310634-RELEASE"
+      provider-name="%providerName"
+      plugin="org.springframework.ide.eclipse">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseUrl">
+      %license
+   </license>
+
+   <plugin
+         id="org.springframework.ide.eclipse.boot.dash"
+         download-size="2255"
+         install-size="3936"
+         version="3.8.4.201703310634-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.springframework.ide.eclipse.cloudfoundry.manifest.editor"
+         download-size="43"
+         install-size="86"
+         version="3.8.4.201703310634-RELEASE"
+         unpack="false"/>
+	
+	<plugin
+         id="org.springframework.ide.eclipse.editor.support"
+         download-size="211"
+         install-size="451"
+         version="3.8.4.201703310634-RELEASE"
+         unpack="false"/>
+
+	<plugin
+         id="org.springsource.ide.eclipse.commons.cloudfoundry.client.v2"
+         download-size="12210"
+         install-size="13885"
+         version="3.8.4.201703310634-RELEASE"
+         unpack="false"/>
+
+	<plugin
+         id="io.projectreactor.reactor-core"
+         download-size="1085"
+         install-size="2484"
+         version="3.0.5.201703211214-RELEASE"
+         unpack="false"/>
+
+	<plugin
+         id="org.reactivestreams.reactive-streams"
+         download-size="5"
+         install-size="6"
+         version="1.0.0.release"
+         unpack="false"/>
+
+</feature>
