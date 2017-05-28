@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.springsource.ide.eclipse.commons"
+      label="%featureName"
+      version="3.8.4.201703310458-RELEASE"
+      provider-name="%providerName">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseUrl">
+      %license
+   </license>
+
+   <requires>
+      <import feature="org.eclipse.mylyn_feature" version="3.4.0.v20100601" match="compatible"/>
+      <import feature="org.eclipse.mylyn.context_feature" version="3.4.0.v20100601" match="compatible"/>
+   </requires>
+
+   <plugin
+         id="org.springsource.ide.eclipse.commons.content.core"
+         download-size="37"
+         install-size="72"
+         version="3.8.4.201703310458-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.springsource.ide.eclipse.commons.core"
+         download-size="95"
+         install-size="184"
+         version="3.8.4.201703310458-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.springsource.ide.eclipse.commons.frameworks.core"
+         download-size="102"
+         install-size="199"
+         version="3.8.4.201703310458-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.springsource.ide.eclipse.commons.frameworks.ui"
+         download-size="222"
+         install-size="485"
+         version="3.8.4.201703310458-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.springsource.ide.eclipse.commons.configurator"
+         download-size="111"
+         install-size="221"
+         version="3.8.4.201703310458-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.springsource.ide.eclipse.commons.ui"
+         download-size="200"
+         install-size="315"
+         version="3.8.4.201703310458-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.springsource.ide.eclipse.commons.livexp"
+         download-size="170"
+         install-size="367"
+         version="3.8.4.201703310458-RELEASE"
+         unpack="false"/>
+         
+   <plugin
+         id="org.springsource.ide.eclipse.commons.completions"
+         download-size="50"
+         install-size="102"
+         version="3.8.4.201703310458-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.springsource.ide.eclipse.commons.cloudfoundry.client"
+         download-size="13095"
+         install-size="14660"
+         version="3.8.4.201703310458-RELEASE"
+         unpack="false"/>         
+
+   <plugin
+         id="io.projectreactor.reactor-core"
+         download-size="1085"
+         install-size="2484"
+         version="3.0.5.201703211214-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.reactivestreams.reactive-streams"
+         download-size="5"
+         install-size="6"
+         version="1.0.0.release"
+         unpack="false"/>
+
+</feature>
