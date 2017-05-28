@@ -40,6 +40,7 @@ javax.xml.rpc,1.1.0.v201209140446,plugins/javax.xml.rpc_1.1.0.v201209140446/,4,f
 javax.xml.soap,1.2.0.v201005080501,plugins/javax.xml.soap_1.2.0.v201005080501/,4,false
 javax.xml.stream,1.0.1.v201004272200,plugins/javax.xml.stream_1.0.1.v201004272200.jar,4,false
 javax.xml.ws,2.1.0.v200902101523,plugins/javax.xml.ws_2.1.0.v200902101523.jar,4,false
+jp.sourceforge.mergedoc.pleiades,1.7.26,plugins/jp.sourceforge.mergedoc.pleiades/,4,false
 net.mihai-nita.ansicon.plugin,1.3.3.201605090119,plugins/net.mihai-nita.ansicon.plugin_1.3.3.201605090119.jar,4,false
 org.aopalliance,1.0.0.v201105210816,plugins/org.aopalliance_1.0.0.v201105210816.jar,4,false
 org.apache.ant,1.9.6.v201510161327,plugins/org.apache.ant_1.9.6.v201510161327/,4,false
