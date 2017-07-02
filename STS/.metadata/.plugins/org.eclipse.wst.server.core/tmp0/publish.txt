@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sun Jun 04 14:19:38 JST 2017
+org.eclipse.jst.jee.server\:eclair=C\:\\develop\\websystem\\STS\\sts-bundle\\pivotal-tc-server-developer-3.2.4.SR1\\base-instance\\wtpwebapps\\eclair
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\taka\\.m2\\repository\\org\\springframework\\spring-web\\3.2.3.RELEASE\\spring-web-3.2.3.RELEASE.jar=C\:\\develop\\websystem\\STS\\sts-bundle\\pivotal-tc-server-developer-3.2.4.SR1\\base-instance\\wtpwebapps\\eclair\\WEB-INF\\lib\\spring-web-3.2.3.RELEASE.jar
