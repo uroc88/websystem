@@ -1,4 +1,2 @@
-!STS/workspace/*
+STS/workspace/*
 !STS/workspace/.metadata/*
-!STS/workspace/RemoteSystemsTempFiles/*
-!STS/workspace/Servers/*

@@ -18,3 +18,12 @@ INFO  11:52:07.293 [pool-1-thread-2] (CachePropertySet) load  0.011 秒 -   2801
 INFO  11:52:54.658 [main] (AbstractTranslationDictionary$1) load  0.482 秒 - 132857 エントリー translation.properties
 INFO  11:52:54.683 [main] (PropertySet) load  0.025 秒 -    264 エントリー translation-first.properties
 INFO  11:53:33.118 [main] (Analyses) Eclipse 始動完了 - 始動時間: 86.124 秒。-clean:false
+INFO  12:10:20.912 [main] (TransformedClassCache) load    1009 エントリー transformed-class.cache
+INFO  12:10:21.447 [main] (TransformedClassCache) store    1012 エントリー transformed-class.cache
+INFO  12:10:21.505 [main] (ExcludeClassNameCache) load   24343 エントリー exclude-class.list
+INFO  12:10:22.172 [main] (ExcludeClassNameCache) store  24367 エントリー exclude-class.list
+INFO  12:10:22.195 [main] (PropertySet) load  0.021 秒 -   2801 エントリー mnemonic-cache.properties.zip
+INFO  12:10:22.195 [main] (CachePropertySet) ニーモニック変換キャッシュ・プロパティーの更新はありません。
+INFO  12:10:22.295 [main] (PropertySet) load  0.100 秒 -  31648 エントリー translation-cache.properties.zip
+INFO  12:10:22.689 [main] (ValueHashPropertySet) store 0.393 秒 -  31691 エントリー translation-cache.properties.zip
+INFO  12:10:22.701 [main] (CachePropertySet) 翻訳キャッシュ・プロパティーを更新しました。
