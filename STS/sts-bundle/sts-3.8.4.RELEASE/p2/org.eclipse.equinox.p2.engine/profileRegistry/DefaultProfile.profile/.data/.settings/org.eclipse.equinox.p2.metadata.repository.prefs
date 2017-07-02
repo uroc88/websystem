@@ -8,6 +8,7 @@ repositories/file\:_C\:_develop_websystem_STS_sts-bundle_sts-3.8.4.RELEASE_.ecli
 repositories/file\:_C\:_develop_websystem_STS_sts-bundle_sts-3.8.4.RELEASE_.eclipseextension/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_develop_websystem_STS_sts-bundle_sts-3.8.4.RELEASE_.eclipseextension/uri=file\:/C\:/develop/websystem/STS/sts-bundle/sts-3.8.4.RELEASE/.eclipseextension
 repositories/file\:_C\:_develop_websystem_STS_sts-bundle_sts-3.8.4.RELEASE_.eclipseextension/version=1
+repositories/file\:_C\:_develop_websystem_STS_sts-bundle_sts-3.8.4.RELEASE_configuration_org.eclipse.osgi_256_data_listener_1925729951/enabled=true
 repositories/file\:_C\:_develop_websystem_STS_sts-bundle_sts-3.8.4.RELEASE_configuration_org.eclipse.osgi_256_data_listener_1925729951/isSystem=true
 repositories/file\:_C\:_develop_websystem_STS_sts-bundle_sts-3.8.4.RELEASE_configuration_org.eclipse.osgi_256_data_listener_1925729951/name=dropins
 repositories/file\:_C\:_develop_websystem_STS_sts-bundle_sts-3.8.4.RELEASE_configuration_org.eclipse.osgi_256_data_listener_1925729951/suffix=content.xml
@@ -24,6 +25,7 @@ repositories/http\:__dist.springsource.com_release_TOOLS_update_3.8.4.RELEASE_e4
 repositories/http\:__download.eclipse.org_releases_neon/count=1
 repositories/http\:__download.eclipse.org_releases_neon/description=
 repositories/http\:__download.eclipse.org_releases_neon/enabled=true
+repositories/http\:__download.eclipse.org_releases_neon/isSystem=false
 repositories/http\:__download.eclipse.org_releases_neon/name=Eclipse Repository
 repositories/http\:__download.eclipse.org_releases_neon/nickname=Neon
 repositories/http\:__download.eclipse.org_releases_neon/provider=
@@ -90,6 +92,7 @@ repositories/http\:__download.eclipse.org_technology_epp_packages_neon/version=1
 repositories/http\:__download.springsource.com_release_TOOLS_update_e4.6/count=1
 repositories/http\:__download.springsource.com_release_TOOLS_update_e4.6/description=
 repositories/http\:__download.springsource.com_release_TOOLS_update_e4.6/enabled=true
+repositories/http\:__download.springsource.com_release_TOOLS_update_e4.6/isSystem=false
 repositories/http\:__download.springsource.com_release_TOOLS_update_e4.6/name=SpringSource Update Site for Eclipse 4.5
 repositories/http\:__download.springsource.com_release_TOOLS_update_e4.6/nickname=SpringSource Update Site for Eclipse 4.6
 repositories/http\:__download.springsource.com_release_TOOLS_update_e4.6/provider=
